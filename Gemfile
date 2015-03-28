@@ -1,6 +1,5 @@
-source 'https://rubygems.org'
+source :rubygems
 
-ruby '1.8.7'
 gem 'rails','2.3.5'
 gem 'i18n','0.4.2'
 gem 'declarative_authorization','0.5.1'
